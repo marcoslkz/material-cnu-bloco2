@@ -2,6 +2,9 @@
 
 [Edital do CNU - Bloco 2](https://www.gov.br/gestao/pt-br/concursonacional/editais/edital-cpnu-bloco-2-10jan2024.pdf)
 
+## Geral
+- Youtube [Português Base](https://www.youtube.com/watch?v=pGY4-Ip2Q_k&t=3384s)
+
 ## Eixo Temático 3 – Gerência e Suporte da Tecnologia da Informação
 
 ### 1. Segurança da informação
